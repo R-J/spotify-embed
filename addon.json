@@ -1,0 +1,20 @@
+{
+    "name": "Spotify Embed",
+    "description": "Replace links to Spotify an embedded Spotify player widget.",
+    "version": "0.0.1",
+    "license": "MIT",
+    "type": "addon",
+    "key": "spotify-embed",
+    "mobileFriendly": true,
+    "hasLocale": true,
+    "pluginUrl": "https://github.com/r-j/spotify-embed",
+    "authors": [
+        {
+            "name": "Robin Jurinka",
+            "homepage": "https://open.vanillaforums.com/profile/r_j"
+        }
+    ],
+    "require": {
+        "vanilla": ">=2.6"
+    }
+}
